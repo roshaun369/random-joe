@@ -1,2 +1,2 @@
-# random-joe git pull -m 
-"changed font size on navbar"
+# random-joe
+git push origin
